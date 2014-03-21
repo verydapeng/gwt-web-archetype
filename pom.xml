@@ -7,11 +7,11 @@
         <version>5</version>
     </parent>
     <groupId>com.verydapeng</groupId>
-    <artifactId>gwt-web</artifactId>
+    <artifactId>gwt-web-archetype</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
-    <name>gwt-web</name>
+    <name>gwt-web-archetype</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
