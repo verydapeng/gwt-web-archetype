@@ -1,0 +1,4 @@
+<module rename-to="betslip">
+    <inherits name="${package}.prod" />
+    <set-configuration-property name="CssResource.style" value="pretty"/>
+</module>
